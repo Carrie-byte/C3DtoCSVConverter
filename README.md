@@ -5,7 +5,7 @@ Written in Python 2.7
 
 AUTHOR  : Haresh Karnan 
 
-Website : http:\\hareshmiriyala.github.io
+Website : hareshmiriyala.github.io
 
 E-mail  : haresh.miriyala@gmail.com
 
